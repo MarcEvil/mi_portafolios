@@ -16,6 +16,29 @@ h1 {
     border-bottom: 3px solid #3498db;
     padding-bottom: 10px;
 }
+.card {
+    background-color: white; /* Color de fondo de la tarjeta */
+    border-radius: 12px;     /* Bordes redondeados */
+    padding: 2rem;           /* Espacio interno */
+    max-width: 600px;        /* Ancho máximo opcional */
+    margin: 20px auto;       /* Centra la tarjeta */
+    
+    /* Sombra: eje-x eje-y difuminado expansión color */
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); 
+    
+    /* Suaviza el borde si quieres algo sutil */
+    border: 1px solid #eee;
+}
+
+.card h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.card p {
+    line-height: 1.6;
+    color: #666;
+}
 
 h3 {
     color: #2980b9;
