@@ -1,2 +1,7 @@
 # mi_portafolios
-Una breve parte de mi 
+
+
+##Mi primer portafolios
+
+####Esta web es un ejemplo de portafolio, puede ser utilizado como curriculum online
+![image](img/naveufo.jpg)
