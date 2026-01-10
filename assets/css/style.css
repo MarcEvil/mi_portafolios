@@ -34,6 +34,9 @@ h1 {
     margin-top: 0;
     color: #333;
 }
+.subt h3 {
+    margin-left: 15
+}
 
 .card p {
     line-height: 1.6;
@@ -47,11 +50,14 @@ h3 {
     background-color: #c2e0e8;
     padding: 10px;
     border-left: 5px solid #3498db;
+<<<<<<< HEAD
     
 }
 .sub {
     width: 250px;
     margin-left: 30px;
+=======
+>>>>>>> 367b389d4e9b73da668edf858009ebf977853fa6
 }
 
 /* Párrafos y listas */
